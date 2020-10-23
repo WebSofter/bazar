@@ -14,4 +14,4 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 Created by David Amirkhanov ([websofter](https://wsofter.ru))
 
-## Learn to create this template [here](https://hashnode.com/edit/ckdz9l83l00ey4us1gettgqy0)
+## See this example as demo on Vercel [bazar.websofter.vercel.app](https://bazar.websofter.vercel.app/)
